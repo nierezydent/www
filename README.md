@@ -83,10 +83,13 @@ Mniej korzystnie wygląda prowadzenie spółki. gdy jest się rezydentem a nie r
 + rozwój firmy
 + sprzedaż/zakup usług
 
-## Dla kogo nie jest jurysdykcja estońska?
+## Dla kogo nie jest estońska jurysdykcja?
 
 + dla tych, którzy chcieliby zastąpić w 100% dotyczczasową jurysdykcję na inną 
 + dla tych, którzy nie chcą reinwestować a potrzebują wypłacać zysk od razu
++ profil produkcyjny i sprzedaż produktów
++ profil handlowy i odsprzedaż towarów/usług
+
 
 ## Dlaczego powstała ta strona?
 
