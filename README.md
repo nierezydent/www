@@ -27,7 +27,7 @@ Już tylko te korzyści oferują dobre warunki dla rozwijającej się firmy.
 5. Rachunkowość prowadzi firma [Xolo](https://www.xolo.io/ref/TOMSAP)
 
 
-Nie zajmuję się doradztwem podatkowym, ale dla własnego dobra przeanalizowałem kilka lokalizacji i z punktu widzenia Freelancera IT opłaca się rozwijać startup usługowy SaaS w właśnie w Estonii.
+Nie zajmuję się doradztwem podatkowym, ale dla własnego dobra przeanalizowałem kilka lokalizacji i z punktu widzenia Freelancera IT opłaca się rozwijać startup usługowy SaaS właśnie w Estonii.
 
 ## Tom Sapletta
 + [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
