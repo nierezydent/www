@@ -1,7 +1,7 @@
 # [nierezydent.pl](https://www.nierezydent.pl/)
 
 + Nie chcesz już być rezydentem Polski?
-+ Niezależnie gdzie się przeprowadzisz i jaki będzie Twój kraj rezydencji warto wziąć pod uwagę Estonię.
++ Niezależnie gdzie się przeprowadzisz i kraju rezydencji warto wziąć pod uwagę Estonię do rozliczani globalnego Startup'u.
 
 ## Dla kogo?
 + Usługodawców
