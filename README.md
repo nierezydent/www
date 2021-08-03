@@ -11,7 +11,7 @@ Sprawiają, że to korzystne warunki dla rozwijającej się firmy.
 
 ## Jak zacząć? 
 
-1. Na początek wypełniłem wniosek o kartę e-rezydencji [Application for e-Resident's digital ID](https://eresident.politsei.ee/)
+1. Na początek wypełniłem wniosek o kartę e-rezydencji [Application for e-Resident's ID](https://eresident.politsei.ee/)
 
 2. Następnie należy opłacić i odebrać dokument (wraz z czytnikiem) w konsulacie Estonii
 
