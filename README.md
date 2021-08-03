@@ -13,6 +13,9 @@
 + brak CIT przy reinwestowaniu
 
 Już tylko te korzyści oferują dobre warunki dla rozwijającej się firmy.
+Poza tym aby zacząć nie trzeba jechać do Estonii, tylko odebrać osobiście w konsulacie kartę e-rezydencji.
+
+
 
 ## Jak zacząłem? 
 
@@ -29,11 +32,30 @@ Już tylko te korzyści oferują dobre warunki dla rozwijającej się firmy.
 
 Nie zajmuję się doradztwem podatkowym, ale dla własnego dobra przeanalizowałem kilka lokalizacji i z punktu widzenia Freelancera IT opłaca się rozwijać startup usługowy SaaS właśnie w Estonii.
 
+Na początek polecam zobaczyć stronę biura rachunkowego [Xolo](https://www.xolo.io/ref/TOMSAP) w celu zapoznania się z kosztami
+
+
 ## Tom Sapletta
 + [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
 + [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
 + [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
 
+
+## Koszty
+
+### E-rezydencja
+
+koszt jest związany z opłatą za kartę erezydencji:
+
+[e-Residency Benefits | Digital Nomad, Freelancer, Startup Company](https://e-resident.gov.ee/become-an-e-resident/)
+
+> Pay state fee and receive confirmation email after successfully submitting. State fee: €100-120.
+
+### Księgowość
+Koszty prowadzenie wynikają z co-miesięcznych kosztów księgowości, są zależny od potrzeb, zaczynają się od 79EUR miesięcznie
+[Affordable and flexible plans to run your business | Xolo Pricing](https://www.xolo.io/pricing)
+
+nic poza tym, raporty coroczne są wliczone
 
 
 # Więcej informacji:
