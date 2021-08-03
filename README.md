@@ -46,13 +46,13 @@ Na początek polecam zobaczyć stronę biura rachunkowego [Xolo](https://www.xol
 
 koszt jest związany z opłatą za kartę erezydencji:
 
-[e-Residency Benefits | Digital Nomad, Freelancer, Startup Company](https://e-resident.gov.ee/become-an-e-resident/)
+[e-Residency Benefits for Digital Nomad, Freelancer, Startup Company](https://e-resident.gov.ee/become-an-e-resident/)
 
 > Pay state fee and receive confirmation email after successfully submitting. State fee: €100-120.
 
 ### Księgowość
 Koszty prowadzenie wynikają z co-miesięcznych kosztów księgowości, są zależny od potrzeb, zaczynają się od 79EUR miesięcznie, raporty coroczne są wliczone
-[Affordable and flexible plans to run your business | Xolo Pricing](https://www.xolo.io/pricing)
+[Xolo Pricing](https://www.xolo.io/pricing)
 
 
 # Więcej informacji:
