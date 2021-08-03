@@ -66,3 +66,10 @@ Każdy, kto mieszka w Polsce zna realia i warto rozważyć zmianę rezydencji Po
 Rezydencja Polska oznacza problemy bez firmy w Estonii a co dopiero, gdy ta działalność miała by stanowić kluczowe źródło dochodów, wówczas kłopoty są oczywiste.
 
 Niemcy oferują stabilne prawo, dlatego z perspektywy rezydenta Niemiec łatwiej rozwijać globalne Startup-y
+
+
+## Dlaczego powstała ta strona?
+
+ Z powodu oczywistych pytań wielu Polaków wcześniej.
+ Polacy w kontekście "nowego ładu" mają mnóstwo powodów do szukania alternatywy.
+ Nie każdy może sobie pozwolić na przeprowadzkę setki czy tysiące km razem z rodziną, firmą, majątkiem, dlatego na początek warto rozważyć przeprowadzkę do bliskiej zagranicy w zależności od lokalizacji na jakiś czas.
