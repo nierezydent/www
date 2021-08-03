@@ -57,4 +57,12 @@ Koszty prowadzenie wynikają z co-miesięcznych kosztów księgowości, są zale
 
 # Więcej informacji:
 
+## Estonia i Karta e-rezydencji
 [Co to jest karta e-rezydencji](https://e-estonia.com/solutions/e-identity/e-residency)
+
+## Polska
+
+Każdy, kto mieszka w Polsce zna realia i warto rozważyć zmianę rezydencji Polskiej na dowolną inna, chociażby jednego z sąsiadów, np Niemcy.
+Rezydencja Polska oznacza problemy bez firmy w Estonii a co dopiero, gdy ta działalność miała by stanowić kluczowe źródło dochodów, wówczas kłopoty są oczywiste.
+
+Niemcy oferują stabilne prawo, dlatego z perspektywy rezydenta Niemiec łatwiej rozwijać globalne Startup-y
