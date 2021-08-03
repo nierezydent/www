@@ -6,7 +6,8 @@
 ## Dla usługodawców może być korzystna jurysdykcja Estońska:
 + proste prawo i podatki
 + brak CIT przy reinwestowaniu
-Idealne wrunki dla rozwijającej się firmy.
+
+Sprawiają, że to korzystne warunki dla rozwijającej się firmy.
 
 ## Jak zacząć? 
 
