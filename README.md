@@ -1,14 +1,11 @@
-## nierezydent.pl
+# [nierezydent.pl](https://www.nierezydent.pl/)
 
-Nie chcesz być rezydentem Polski?
++ Nie chcesz już być rezydentem Polski?
++ Co wybrać?
 
-Jakie masz możliwości?
-
-
-Dla usługodawców może być korzystna jurysdykcja Estońska:
+## Dla usługodawców może być korzystna jurysdykcja Estońska:
 + proste prawo i podatki
 + brak CIT przy reinwestowaniu
-
 Idealne wrunki dla rozwijającej się firmy.
 
-Jak zacząć? 
+## Jak zacząć? 
