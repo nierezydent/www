@@ -33,12 +33,14 @@ Nie zajmuję się doradztwem podatkowym, ale dla własnego dobra przeanalizował
 
 Na początek polecam zobaczyć stronę biura rachunkowego [Xolo](https://www.xolo.io/ref/TOMSAP) w celu zapoznania się z kosztami
 
+---
 
 ## Tom Sapletta
 + [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
 + [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
 + [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
 
+---
 
 ## Koszty
 
@@ -60,15 +62,33 @@ Koszty prowadzenia wynikają z co-miesięcznych kosztów księgowości, są zale
 ## Estonia i Karta e-rezydencji
 + [Co to jest karta e-rezydencji](https://e-estonia.com/solutions/e-identity/e-residency)
 
-## Polska
+## Rezydencja Polska
 
 Każdy, kto mieszka w Polsce zna realia i warto rozważyć zmianę rezydencji Polskiej na dowolną inna, chociażby jednego z sąsiadów, np Niemcy.
-Rezydencja Polska oznacza problemy bez firmy w Estonii a co dopiero, gdy ta działalność miała by stanowić kluczowe źródło dochodów, wówczas kłopoty są oczywiste.
+
+Rezydencja Polska oznacza problemy i bez firmy w Estonii a co dopiero, gdy ta działalność miała by stanowić kluczowe źródło dochodów, wówczas kłopoty są oczywiste.
 
 Niemcy oferują stabilne prawo, dlatego z perspektywy rezydenta Niemiec łatwiej rozwijać globalne Startup-y
 
 
+## Profil firmy
+
+Proszę mieć na uwadze, że założenie spółki w tym modelu nie ma na celu zastąpienie tylko dopełnienie i wykorzystanie pewnej specyfiki prowadzenia firmy w Estonii.
+Mniej korzystnie wygląda prowadzenie spółki. gdy jest się rezydentem a nie rezydentem Estonii.
+
+## Cele zakładania spółki w Estonii
+
++ reinwestowanie
++ rozwój firmy
++ sprzedaż/zakup usług
+
+## Dla kogo nie jest jurysdykcja estońska?
+
++ dla tych, którzy chcieliby zastąpić w 100% dotyczczasową jurysdykcję na inną 
++ dla tych, którzy nie chcą reinwestować a potrzebują wypłacać zysk od razu
+
 ## Dlaczego powstała ta strona?
 
-Z powodu oczywistych pytań wielu Polaków w kontekście "nowego ładu".
++ Z powodu oczywistych pytań wielu Polaków w kontekście "nowego ładu".
++ Z powodu moich pozytywnych doświadczeń z prowadzeniem spółki estońskiej poza granicą Polski.
 Nie każdy może sobie pozwolić na przeprowadzkę setki czy tysiące km razem z rodziną, firmą, majątkiem, dlatego na początek warto rozważyć przeprowadzkę do bliskiej zagranicy w zależności od lokalizacji na jakiś czas.
