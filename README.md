@@ -30,3 +30,7 @@ Tom Sapletta
 + [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
 
 
+
+# Więcej informacji:
+
+[Co to jest karta erezydencji](https://e-estonia.com/solutions/e-identity/e-residency)
