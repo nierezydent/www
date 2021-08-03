@@ -1,7 +1,7 @@
 # [nierezydent.pl](https://www.nierezydent.pl/)
 
 + Nie chcesz już być rezydentem Polski?
-+ Niezależnie gdzie się przeprowadzisz i kraju rezydencji warto wziąć pod uwagę Estonię do rozliczani globalnego Startup'u.
++ Niezależnie gdzie się przeprowadzisz i kraju rezydencji warto wziąć pod uwagę Estonię do rozliczania globalnego Startup'u.
 
 ## Dla kogo?
 + Usługodawców
@@ -46,19 +46,19 @@ Na początek polecam zobaczyć stronę biura rachunkowego [Xolo](https://www.xol
 
 koszt jest związany z opłatą za kartę erezydencji:
 
-[e-Residency Benefits for Digital Nomad, Freelancer, Startup Company](https://e-resident.gov.ee/become-an-e-resident/)
++ [e-Residency Benefits for Digital Nomad, Freelancer, Startup Company](https://e-resident.gov.ee/become-an-e-resident/)
 
 > Pay state fee and receive confirmation email after successfully submitting. State fee: €100-120.
 
 ### Księgowość
-Koszty prowadzenie wynikają z co-miesięcznych kosztów księgowości, są zależny od potrzeb, zaczynają się od 79EUR miesięcznie, raporty coroczne są wliczone
-[Xolo Pricing](https://www.xolo.io/pricing)
+Koszty prowadzenia wynikają z co-miesięcznych kosztów księgowości, są zależne od potrzeb, zaczynają się od 79EUR miesięcznie, raporty coroczne są wliczone
++ [Xolo Pricing](https://www.xolo.io/pricing)
 
 
 # Więcej informacji:
 
 ## Estonia i Karta e-rezydencji
-[Co to jest karta e-rezydencji](https://e-estonia.com/solutions/e-identity/e-residency)
++ [Co to jest karta e-rezydencji](https://e-estonia.com/solutions/e-identity/e-residency)
 
 ## Polska
 
