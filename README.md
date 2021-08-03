@@ -79,6 +79,7 @@ Mniej korzystnie wygląda prowadzenie spółki. gdy jest się rezydentem a nie r
 ## Cele zakładania spółki w Estonii
 
 + reinwestowanie
++ kryptowaluty
 + rozwój firmy
 + sprzedaż/zakup usług
 
