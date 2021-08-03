@@ -24,7 +24,7 @@ Sprawiają, że to korzystne warunki dla rozwijającej się firmy.
 
 Nie zajmuję się doradztwem podatkowym, ale dla własnego dobra przeanalizowałem kilka lokalizacji i z punktu widzenia Freelancera IT opłaca się rozwijać startup usługowy SaaS w właśnie w Estonii.
 
-Tom Sapletta
+## Tom Sapletta
 + [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
 + [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
 + [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
