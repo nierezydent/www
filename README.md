@@ -13,7 +13,7 @@ Sprawiają, że to korzystne warunki dla rozwijającej się firmy.
 
 1. Wypełniłem wniosek o kartę e-rezydencji [Application for e-Resident's ID](https://eresident.politsei.ee/)
 
-2. Następnie opłaciłem
+2. Następnie opłaciłem, [How much and how to pay? - E-Resident's digital ID](https://www.politsei.ee/en/instructions/e-resident-s-digital-id/how-much-and-how-to-pay)
 
 3. Po kilku tygodniach odebrałem dokument (wraz z czytnikiem) w konsulacie Estonii
 
