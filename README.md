@@ -3,11 +3,16 @@
 + Nie chcesz już być rezydentem Polski?
 + Niezależnie gdzie się przeprowadzisz i jaki będzie Twój kraj rezydencji warto wziąć pod uwagę Estonię.
 
-## Dla usługodawców może być korzystna właśnie jurysdykcja Estońska:
+## Dla kogo?
++ Usługodawców
++ Freelancerów
++ StartUp'ów
+
+## Korzyści
 + proste prawo i podatki
 + brak CIT przy reinwestowaniu
 
-Sprawiają, że to korzystne warunki dla rozwijającej się firmy.
+Już tylko te korzyści oferują dobre warunki dla rozwijającej się firmy.
 
 ## Jak zacząłem? 
 
