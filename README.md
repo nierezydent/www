@@ -16,7 +16,6 @@ Już tylko te korzyści oferują dobre warunki dla rozwijającej się firmy.
 Poza tym aby zacząć nie trzeba jechać do Estonii, tylko odebrać osobiście w konsulacie kartę e-rezydencji.
 
 
-
 ## Jak zacząłem? 
 
 1. Wypełniłem wniosek o kartę e-rezydencji [Application for e-Resident's ID](https://eresident.politsei.ee/)
@@ -52,12 +51,10 @@ koszt jest związany z opłatą za kartę erezydencji:
 > Pay state fee and receive confirmation email after successfully submitting. State fee: €100-120.
 
 ### Księgowość
-Koszty prowadzenie wynikają z co-miesięcznych kosztów księgowości, są zależny od potrzeb, zaczynają się od 79EUR miesięcznie
+Koszty prowadzenie wynikają z co-miesięcznych kosztów księgowości, są zależny od potrzeb, zaczynają się od 79EUR miesięcznie, raporty coroczne są wliczone
 [Affordable and flexible plans to run your business | Xolo Pricing](https://www.xolo.io/pricing)
-
-nic poza tym, raporty coroczne są wliczone
 
 
 # Więcej informacji:
 
-[Co to jest karta erezydencji](https://e-estonia.com/solutions/e-identity/e-residency)
+[Co to jest karta e-rezydencji](https://e-estonia.com/solutions/e-identity/e-residency)
