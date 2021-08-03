@@ -1,23 +1,25 @@
 # [nierezydent.pl](https://www.nierezydent.pl/)
 
 + Nie chcesz już być rezydentem Polski?
-+ Co wybrać?
++ Niezależnie gdzie się przeprowadzisz i jaki będzie Twój kraj rezydencji warto wziąć pod uwagę Estonię.
 
-## Dla usługodawców może być korzystna jurysdykcja Estońska:
+## Dla usługodawców może być korzystna właśnie jurysdykcja Estońska:
 + proste prawo i podatki
 + brak CIT przy reinwestowaniu
 
 Sprawiają, że to korzystne warunki dla rozwijającej się firmy.
 
-## Jak zacząć? 
+## Jak zacząłem? 
 
-1. Na początek wypełniłem wniosek o kartę e-rezydencji [Application for e-Resident's ID](https://eresident.politsei.ee/)
+1. Wypełniłem wniosek o kartę e-rezydencji [Application for e-Resident's ID](https://eresident.politsei.ee/)
 
-2. Następnie należy opłacić i odebrać dokument (wraz z czytnikiem) w konsulacie Estonii
+2. Następnie opłaciłem
 
-3. Konto bankowe założyłem w firmie [Wise](https://wise.com/invite/u/tomaszs408)
+3. Po kilku tygodniach odebrałem dokument (wraz z czytnikiem) w konsulacie Estonii
 
-4. Rachunkowość prowadzi firma [Xolo](https://www.xolo.io/ref/TOMSAP)
+4. Konto bankowe założyłem w firmie [Wise](https://wise.com/invite/u/tomaszs408)
+
+5. Rachunkowość prowadzi firma [Xolo](https://www.xolo.io/ref/TOMSAP)
 
 
 Nie zajmuję się doradztwem podatkowym, ale dla własnego dobra przeanalizowałem kilka lokalizacji i z punktu widzenia Freelancera IT opłaca się rozwijać startup usługowy SaaS w właśnie w Estonii.
