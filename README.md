@@ -70,6 +70,5 @@ Niemcy oferują stabilne prawo, dlatego z perspektywy rezydenta Niemiec łatwiej
 
 ## Dlaczego powstała ta strona?
 
- Z powodu oczywistych pytań wielu Polaków wcześniej.
- Polacy w kontekście "nowego ładu" mają mnóstwo powodów do szukania alternatywy.
- Nie każdy może sobie pozwolić na przeprowadzkę setki czy tysiące km razem z rodziną, firmą, majątkiem, dlatego na początek warto rozważyć przeprowadzkę do bliskiej zagranicy w zależności od lokalizacji na jakiś czas.
+Z powodu oczywistych pytań wielu Polaków w kontekście "nowego ładu".
+Nie każdy może sobie pozwolić na przeprowadzkę setki czy tysiące km razem z rodziną, firmą, majątkiem, dlatego na początek warto rozważyć przeprowadzkę do bliskiej zagranicy w zależności od lokalizacji na jakiś czas.
