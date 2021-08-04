@@ -83,6 +83,9 @@ Mniej korzystnie wygląda prowadzenie spółki. gdy jest się rezydentem a nie r
 + rozwój firmy
 + sprzedaż/zakup usług
 
+
+## Dla kogo, przykłady
+
 Warto czytać u źródła:
 https://e-resident.gov.ee/start-a-company/
 
