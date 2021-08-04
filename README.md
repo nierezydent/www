@@ -83,6 +83,16 @@ Mniej korzystnie wygląda prowadzenie spółki. gdy jest się rezydentem a nie r
 + rozwój firmy
 + sprzedaż/zakup usług
 
+Warto czytać u źródła:
+https://e-resident.gov.ee/start-a-company/
+
+Tutaj odpowiedzi dla kogo jest estońska spółka:
+https://e-resident.gov.ee/blog/posts/is-e-residency-for-me
+
+W skrajności konieczna jest licencja na pewne obszary działalności:
+https://learn.e-resident.gov.ee/hc/en-us/articles/360000633817-Business-licenses
+
+
 ## Dla kogo nie jest estońska jurysdykcja?
 
 + dla tych, którzy chcieliby zastąpić w 100% dotyczczasową jurysdykcję na inną 
