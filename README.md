@@ -86,6 +86,14 @@ Mniej korzystnie wygląda prowadzenie spółki. gdy jest się rezydentem a nie r
 Warto czytać u źródła:
 https://e-resident.gov.ee/start-a-company/
 
+In general, e-Residency is best suited to entrepreneurs or freelancers who:
+
++ sell services or digital products online in a broad range of sectors, including IT, marketing, publishing, consulting and more,
++ want to reduce bureaucracy and paperwork, in order to save time and money,
++ do not have a fixed location, or
++ want their business to stay in — or enter — the EU market so they can expand regionally or globally, trade in euros, access financial services or EU funding, or stay within the EU’s legal frameworks.
+    
+    
 Tutaj odpowiedzi dla kogo jest estońska spółka:
 https://e-resident.gov.ee/blog/posts/is-e-residency-for-me
 
