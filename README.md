@@ -3,7 +3,7 @@
 + Nie chcesz już być rezydentem Polski?
 + Niezależnie gdzie się wyprowadzisz warto wziąć pod uwagę Estonię do rozliczania globalnego Startup'u.
 
-
+Inne tematy:
 + [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
 + [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
 + [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
