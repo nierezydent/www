@@ -39,14 +39,6 @@ Nie zajmuję się doradztwem podatkowym, ale dla własnego dobra przeanalizował
 
 Na początek polecam zobaczyć stronę biura rachunkowego [Xolo](https://www.xolo.io/ref/TOMSAP) w celu zapoznania się z kosztami
 
----
-
-## Tom Sapletta
-+ [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
-+ [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
-+ [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
-
----
 
 ## Koszty
 
@@ -123,3 +115,31 @@ https://learn.e-resident.gov.ee/hc/en-us/articles/360000633817-Business-licenses
 + Z powodu oczywistych pytań wielu Polaków w kontekście "nowego ładu".
 + Z powodu moich pozytywnych doświadczeń z prowadzeniem spółki estońskiej poza granicą Polski.
 Nie każdy może sobie pozwolić na przeprowadzkę setki czy tysiące km razem z rodziną, firmą, majątkiem, dlatego na początek warto rozważyć przeprowadzkę do bliskiej zagranicy w zależności od lokalizacji na jakiś czas.
+
+
+
+---
+
+## Tom Sapletta
++ [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
++ [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
+
+---
+
+
+## Inne tematy:
+
++ [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
++ [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
++ [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
++ [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
+
+
+---
+
++ [edit](https://github.com/nierezydent/www/edit/main/README.md)
+
+```
+https://github.com/nierezydent/www.git
+```
