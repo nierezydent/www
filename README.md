@@ -116,6 +116,11 @@ https://learn.e-resident.gov.ee/hc/en-us/articles/360000633817-Business-licenses
 + Z powodu moich pozytywnych doświadczeń z prowadzeniem spółki estońskiej poza granicą Polski.
 Nie każdy może sobie pozwolić na przeprowadzkę setki czy tysiące km razem z rodziną, firmą, majątkiem, dlatego na początek warto rozważyć przeprowadzkę do bliskiej zagranicy w zależności od lokalizacji na jakiś czas.
 
+### Kim jest nierezydent ?
+
+https://www.eesti.pl/e-rezydencja-krok-po-kroku-13433.html
+
+https://poradnikprzedsiebiorcy.pl/-nierezydent-kto-to-taki-jakie-ma-przywileje-i-obowiazki
 
 
 ---
