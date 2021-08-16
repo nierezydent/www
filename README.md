@@ -21,14 +21,11 @@ Innymi słowy nierezydent to:
 + oddziały, przedstawicielstwa oraz przedsiębiorstwa utworzone za granicą przez rezydentów;
 
 
-## Rezydencja Polska
+## Alternatywy dla polskiej rezydencji
 
 Każdy, kto mieszka w Polsce zna realia i warto rozważyć zmianę rezydencji Polskiej na dowolną inna, chociażby jednego z sąsiadów, np Niemcy.
-
-Rezydencja Polska oznacza problemy i bez firmy w Estonii a co dopiero, gdy ta działalność miała by stanowić kluczowe źródło dochodów, wówczas kłopoty są oczywiste.
-
 Niemcy oferują stabilne prawo, dlatego z perspektywy rezydenta Niemiec łatwiej rozwijać globalne Startup-y
-
+Poza tym istnieje kilka krajów, w których można prowadzić bezpiecznie jedną z wielu działalności, sprofilowaną do usług, inwestycji długoterminowych itp.
 
 # Estonia
 
