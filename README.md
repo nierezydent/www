@@ -3,11 +3,25 @@
 + Nie chcesz już być rezydentem Polski?
 + Niezależnie gdzie się wyprowadzisz warto wziąć pod uwagę Estonię do rozliczania globalnego Startup'u.
 
-Inne tematy:
+## Inne tematy:
 + [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
 + [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
 + [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
 
+
+## Nierezydent
+
+Za nierezydenta uważa się osobę, która w rozumieniu przepisów podatkowych nie posiada miejsca zamieszkania na terytorium Polski. 
+
+Innymi słowy nierezydent to:
+
++ osoba fizyczna mająca miejsce zamieszkania za granicą;
++ osoba prawna mająca siedzibę za granicą;
++ inne podmioty mające siedzibę za granicą, które posiadają zdolność do zaciągania i nabywania praw we własnym imieniu;
++ oddziały, przedstawicielstwa oraz przedsiębiorstwa utworzone za granicą przez rezydentów;
+
+
+# Estonia
 
 ## Dla kogo?
 + Usługodawców
@@ -129,16 +143,6 @@ https://poradnikprzedsiebiorcy.pl/-nierezydent-kto-to-taki-jakie-ma-przywileje-i
 + [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
 + [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
 + [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
-
----
-
-
-## Inne tematy:
-
-+ [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
-+ [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
-+ [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
-+ [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
 
 
 ---
