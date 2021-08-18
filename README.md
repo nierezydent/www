@@ -27,6 +27,23 @@ Każdy, kto mieszka w Polsce zna realia i warto rozważyć zmianę rezydencji Po
 Niemcy oferują stabilne prawo, dlatego z perspektywy rezydenta Niemiec łatwiej rozwijać globalne Startup-y
 Poza tym istnieje kilka krajów, w których można prowadzić bezpiecznie jedną z wielu działalności, sprofilowaną do usług, inwestycji długoterminowych itp.
 
+
+
+## Zmiana rezydencji podatkowej
+
+Łatwo jest uzyskać status rezydenta w innym kraju, ale problem może pojawić się w utracie rezydencji w PL. 
+Jak utracić status redydencji podatkowej w Polsce?
++ zmiana miejsca zamieszkania
++ rejestracją firmy w innym kraju
++ należy udowodnić, że m.in. nie przebywa się w Polsce więcej niż 183 dni w roku, ani nie posiada centrum interesów życiowych w Polsce.
+
+Centrum interesów życiowych jest tam, gdzie jest:
++ najbliższa rodzina
++ majątek
+
+Z racje tego, że temat zmiany rezydencji stał się bardzo popularny organy podatkowe przygotowują się dość mocno do jej weryfikacji.
+
+
 # Estonia
 
 ## Dla kogo?
