@@ -149,6 +149,7 @@ https://learn.e-resident.gov.ee/hc/en-us/articles/360000633817-Business-licenses
 
 + Z powodu oczywistych pytań wielu Polaków w kontekście "nowego ładu".
 + Z powodu moich pozytywnych doświadczeń z prowadzeniem spółki estońskiej poza granicą Polski.
++ Z powodu tego, że od wielu lat jestem rezydentem Niemiec [rezydent.de](https://rezydent.de)
 Nie każdy może sobie pozwolić na przeprowadzkę setki czy tysiące km razem z rodziną, firmą, majątkiem, dlatego na początek warto rozważyć przeprowadzkę do bliskiej zagranicy w zależności od lokalizacji na jakiś czas.
 
 ### Kim jest nierezydent ?
