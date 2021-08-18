@@ -31,8 +31,10 @@ Poza tym istnieje kilka krajów, w których można prowadzić bezpiecznie jedną
 
 ## Zmiana rezydencji podatkowej
 
-Łatwo jest uzyskać status rezydenta w innym kraju, ale problem może pojawić się w utracie rezydencji w PL. 
+Łatwo jest uzyskać status rezydenta w innym kraju, ale problem może pojawić się przy jego utracie.
+
 Jak utracić status redydencji podatkowej w Polsce?
+
 + zmiana miejsca zamieszkania
 + rejestracją firmy w innym kraju
 + należy udowodnić, że m.in. nie przebywa się w Polsce więcej niż 183 dni w roku, ani nie posiada centrum interesów życiowych w Polsce.
