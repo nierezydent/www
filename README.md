@@ -40,25 +40,30 @@ Jak utracić status redydencji podatkowej w Polsce?
 + należy udowodnić, że m.in. nie przebywa się w Polsce więcej niż 183 dni w roku, ani nie posiada centrum interesów życiowych w Polsce.
 
 Centrum interesów życiowych jest tam, gdzie jest:
+
 + najbliższa rodzina
 + majątek
 
-Z racje tego, że temat zmiany rezydencji stał się bardzo popularny organy podatkowe przygotowują się dość mocno do jej weryfikacji.
+Warto być przygotowanym na weryfikacje rezydencji przez urzędy podatkowe
 
 
 ## Status rezydencji
 
-Status rezydencji podatkowej w Polsce zależy od tego, czy dana osoba fizyczna posiada miejsce zamieszkania dla celów PDOF w Polsce. Jeśli ma miejsce zamieszkania w Polsce - podlega w naszym kraju nieograniczonemu obowiązkowi podatkowemu. Oznacza to, że opodatkowaniu podlega w takim przypadku światowy dochód bez względu na miejsce jego uzyskania. Z kolei, jeśli nie ma miejsca zamieszkania w Polsce - podlega jedynie ograniczonemu obowiązkowi podatkowemu. W takiej sytuacji opodatkowaniu podlega jedynie dochód uzyskany na terytorium Polski. A kiedy osoba fizyczna posiada miejsce zamieszkania w Polsce?
+Status rezydencji podatkowej w Polsce zależy od tego, czy dana osoba fizyczna posiada miejsce zamieszkania dla celów PDOF w Polsce.
+Jeśli ma miejsce zamieszkania w Polsce - podlega w naszym kraju nieograniczonemu obowiązkowi podatkowemu. Oznacza to, że opodatkowaniu podlega w takim przypadku światowy dochód bez względu na miejsce jego uzyskania. Z kolei, jeśli nie ma miejsca zamieszkania w Polsce - podlega jedynie ograniczonemu obowiązkowi podatkowemu. W takiej sytuacji opodatkowaniu podlega jedynie dochód uzyskany na terytorium Polski. 
+
+### kiedy osoba fizyczna posiada miejsce zamieszkania w Polsce?
 
 
-## Interesy osobiste
+### Interesy osobiste
 
 - w pierwszej kolejności najbliższa rodzina - mąż, żona, partner, partnerka, dzieci
 - w dalszej kolejności rodzeństwo, rodzice,
 - przynależność do organizacji, klubów
 - aktywność społeczna, polityczna, kulturalna
  
-## Interesy gospodarcze
+ 
+### Interesy gospodarcze
 
 - inwestycje kapitałowe
 - posiadane nieruchomości
@@ -89,20 +94,20 @@ Wskazać przy tym należy, iż reguły kolizyjne w zakresie określenia rezydenc
 
 
 
-Jak ustalić rezydencję podatkową?
+## Jak ustalić rezydencję podatkową?
 Ustalenie rezydencji podatkowej może przysparzać trudności. Niemniej jednak postępując według zasad opisanych poniżej, w większości przypadków będzie można rozstrzygnąć, w którym kraju osoba jest rezydentem podatkowym.
 
-Krok 1
+### Krok 1
 Jeżeli na podstawie polskich przepisów osoba jest uznana za nierezydenta podatkowego w Polsce, gdyż nie ma w Polsce centrum interesów życiowych w Polsce i nie przebywa w naszym kraju co najmniej 183 dni w roku kalendarzowym, nie ma konieczności dokonywania dalszej analizy. W takiej sytuacji mamy do czynienia z nierezydentem, a więc osobą posiadającą ograniczony obowiązek podatkowy w Polsce. Taka osoba będzie podlegać opodatkowaniu w Polsce tylko i wyłącznie od dochodów uzyskanych z polskich źródeł przychodów.
 
-Krok 2
+### Krok 2
 Jeżeli na podstawie polskich przepisów osoba jest rezydentem podatkowym w Polsce (tj. posiada w Polsce centrum interesów życiowych i/lub jej pobyt przekracza 183 dni), wtedy należy sprawdzić, czy taka osoba może być uznana za rezydenta podatkowego również w innym kraju. Warto przy tym zaznaczyć, iż kryteria decydujące o rezydencji w innych krajach mogą znacznie odbiegać od tych stosowanych przez Polskę.
 
 W ramach tego kroku koniecznym jest zbadanie co najmniej kraju, z którego osoba przyjechała lub do którego wyjeżdża oraz kraju obywatelstwa. Jeżeli po dokonaniu analizy okaże się, że nie ma innych krajów uznających osobę za rezydenta podatkowego, wtedy nie ma konieczności dokonywania analizy dalszych przepisów. Osoba, w takiej sytuacji, uznana będzie za rezydenta podatkowego w Polsce, co oznacza, że będzie podlegać opodatkowaniu w Polsce od całości swoich światowych dochodów.
 
 Niemniej jednak, jeśli się okaże, że jest taki kraj, który na podstawie swojego wewnętrznego ustawodawstwa również uzna daną osobę za rezydenta podatkowego, wtedy należy przejść do kolejnego kroku celem rozstrzygnięcia tak powstałego konfliktu rezydencji.
 
-Krok 3
+### Krok 3
 W związku z pojawieniem się konfliktu rezydencji, tj. uznania danej osoby za rezydenta podatkowego w dwóch państwach, celem jego rozstrzygnięcia należy zastosować reguły kolizyjne przewidziane w UPO (wskazane powyżej). W większości przypadków taki konflikt rezydencji zostaje rozwiązany w oparciu o ich zastosowanie. Jeśli jednak między Polską a innym krajem, z którego osoba przyjechała lub do którego zostaje oddelegowana, nie ma umowy, wtedy może nam grozić podwójne opodatkowanie dochodu.
 
 
