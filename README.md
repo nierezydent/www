@@ -181,14 +181,11 @@ koszt jest związany z opłatą za kartę erezydencji:
 
 + [e-Residency Benefits for Digital Nomad, Freelancer, Startup Company](https://e-resident.gov.ee/become-an-e-resident/)
 
-> Pay state fee and receive confirmation email after successfully submitting. State fee: €100-120.
+Pay state fee and receive confirmation email after successfully submitting. State fee: €100-120.
 
 ### Księgowość
 Koszty prowadzenia wynikają z co-miesięcznych kosztów księgowości, są zależne od potrzeb, zaczynają się od 79EUR miesięcznie, raporty coroczne są wliczone
 + [Xolo Pricing](https://www.xolo.io/pricing)
-
-
-# Więcej informacji:
 
 
 ## Profil firmy
@@ -214,6 +211,130 @@ https://e-resident.gov.ee/blog/posts/is-e-residency-for-me
 
 W skrajności konieczna jest licencja na pewne obszary działalności:
 https://learn.e-resident.gov.ee/hc/en-us/articles/360000633817-Business-licenses
+
+
+
+
+
+
+
+# Georgia
+
+[Poti Free Industrial Zone](http://www.freetradezone.ge/poti-free-industrial-zone)
+
+[Poti Free Industrial Zone](http://www.freetradezone.ge/poti-free-industrial-zone)
+
+The Poti Free Industrial Zone (Poti FIZ) is strategically located near to the Black Sea port city of Poti, the largest sea port in Georgia. Favorable location makes it very attractive place for business start-up in a tax-friendly environment. The Poti Free Industrial Zone is the first free industrial zone in the region and it has been fully functional since 2010, and accommodates business and investors from different kind of fields. Poti FIZ covers 3.0 million sq.m..  Most part of the land is occupied by range of industrial and logistics activities, from light manufacturing to more heavy industries such as chemical, steel, and processing.  Because of a tax-free environment, favorable location, quick and easy business set-up process, Poti FIZ has become the most attractive FIZ in the region for doing business.
+
+##   
+Benefits of Poti Free Industrial Zone
+
+-   A strategic manufacturing location with sea, rail and road connections to all locations in the Silk Road Corridor and within the Black Sea / Caspian region.
+-   Simplified proceedings for business start-up in a tax-free environment.
+-   Low labor, land and power costs.
+-   Significant logistics and supply chain advantages for traders and merchants.
+-   Market storage and distribution benefits.
+-   Reduced necessity of inventory and costs.
+-   Stability of prices, by avoiding market and currency peaks and falls.
+-   A safe environment for business operations.
+
+## Tax Comparison - you are not paying
+
+### Tax in Poti Free Zone Company
+
+### Tax in Georgia mainland company (LTD, ...)
+
+VAT 0% | VAT 18%
+
+Corporate Profit  Tax 0% | Corporate Profit  Tax 15%
+
+Tax on Dividend Withdrawal  0%  | Tax on Dividend Withdrawal    0%    5%
+
+Property 0%   |  Property up to 1%
+
+Import 0% of import value | Import up to 18% of import value
+
+Export 0% | Export 0%
+
+Personal Income (payable by employee) 20% | Personal Income (payable by employee) 20%
+
+### Product import to FIZ
+
+From Georgia to Company registered at Poti FIZ
+
+4% duty (out of invoice value) |  0% VAT
+
+From other countries to Company registered at Poti FIZ
+
+0% - Tax on Import | 0% VAT
+
+### Product export from FIZ
+
+From company registered at Poti FIZ to Georgia
+
+4% duty (out of invoice value)
+
+0% VAT | 0% tax on profit
+
+From company registered at Poti FIZ to other countries
+
+0% tax on export
+
+0% VAT
+
+0% tax on profit
+
+0% tax on dividend
+
+0% tax on property
+
+Buyer company in Georgia (buying product exported From company registered at Poti FIZ to Georgia)
+
+0% or 12% - Tax on import
+
+18% - VAT
+
+## Type of Legal Entities
+
+Investors who are going to do a business in Poti FIZ can establish a company under one of the following legal entities
+
+Limited Company (LLC)
+
+Minimum one physical entity may establish an LLC
+
+Company is liable to the creditors with all of its assets
+
+No minimum share capital is required for this type of company
+
+Registration Timeline: 1-2 business days
+
+General Partneship (GP)
+
+Minimum two partners may establish GP, performing business under the same name
+
+Company is liable to the creditors with all of its assets
+
+Registration Timeline: 1-2 business days
+
+Limited Partneship (LP)
+
+Formed by two or more persons with different roles in a company, performing business under the same name
+
+Company is liable to the creditors with the warranted amount payable by one or more partners
+
+Registration Timeline: 1-2 business days
+
+Joint Stock Company (JSC)
+
+Capital is shared based on class and number of stocks according to the company charter
+
+Company is liable to the creditors with all of its assets
+
+Share capital can be defined with any amount
+
+Registration Timeline: 1-2 business days
+
+
 
 
 ## Dlaczego powstała ta strona?
