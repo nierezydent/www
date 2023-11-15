@@ -172,6 +172,22 @@ Nie zajmuję się doradztwem podatkowym, ale dla własnego dobra przeanalizował
 
 Na początek polecam zobaczyć stronę biura rachunkowego [Xolo](https://www.xolo.io/ref/TOMSAP) w celu zapoznania się z kosztami
 
+## Estoński numer telefonu, Karta e-sim
+
++ => [International Prepaid SIM Cards For Travel Abroad | TravelSim®](https://airbalticcard.com/)
+ + [Vectone Mobile vs AirBalticCard: Side-by-Side Comparison](https://knoji.com/compare/vectonemobile-vs-airbalticcard/)
++ [Estonia SIM Card - Estonia Data Card - Telestial](https://www.telestial.com/estonia-sim-card)
++ [Buying a Sim Card for Estonia in 2023 - Traveltomtom.net](https://traveltomtom.net/destinations/europe/estonia/prepaid-estonia-sim-card)
++ [Get a local Estonian virtual phone number - FlyNumber](https://www.flynumber.com/products/virtual-phone-number/estonia)
++ [Virtual phone number in Estonia - Sonetel](https://sonetel.com/en/help/help-topics/telephony/countries-supported/estonia-phone-number/)
++ [Estonia eSIM, from $4.5 | World’s first eSIM store · Airalo](https://www.airalo.com/estonia-esim)
++ [Estonia eSIM for travelers - Unlimited Data Plans - Bytesim](https://bytesim.com/products/esim-estonia?sku=18057026486302062695360459)
++ [Estonia: Buy the Best SIM Cards - 2024 Guide – Phone Travel Wiz](https://www.phonetravelwiz.com/buying-a-sim-card-in-estonia-guide/)
+
+Others countries:
++ [Global IoT SIM Card and Solutions - IoT Data Plans](https://www.truphone.com/things/sim/)
++ [Europe: Buy the Best SIM Cards - 2024 Guide – Phone Travel Wiz](https://www.phonetravelwiz.com/buying-a-sim-card-in-europe-guide/)
++ [Sim Only Deals UK - Cheap International Calls - Payg Sim Bundles](https://www.vectonemobile.co.uk/)
 
 ## Koszty
 
